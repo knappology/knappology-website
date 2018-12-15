@@ -29,4 +29,4 @@ npm run lint
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
 ### Current Site 
-[LOCS by Knappology](htthttps://knappology.github.io/knappology-website/index.html)
+[LOCS by Knappology](https://knappology.github.io/knappology-website/index.html).
