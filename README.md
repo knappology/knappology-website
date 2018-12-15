@@ -1,4 +1,4 @@
-# knapp
+# LOCS by Knappology Website
 
 ## Project setup
 ```
